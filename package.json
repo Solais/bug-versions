@@ -117,6 +117,12 @@
       }
     },
     "bug-versions": {
+      "@babel/plugin-transform-block-scoping": {
+        "7.20.7": {
+          "version": "7.20.5",
+          "reason": "Cannot read property 'constantViolations' of undefined"
+        }
+      },
       "language-tags": {
         "1.0.6": {
           "version": "1.0.5",
